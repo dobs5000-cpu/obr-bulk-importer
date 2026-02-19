@@ -1,0 +1,12 @@
+
+{
+  "id": "com.robert.bulkimport",
+  "name": "Bulk Item Importer",
+  "version": "1.0.0",
+  "description": "Imports a list of library items into the scene at the center point.",
+  "icon": "icon.png",
+  "pages": {
+    "main": "index.html"
+  },
+  "scripts": ["script.js"]
+}
